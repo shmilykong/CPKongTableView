@@ -1,0 +1,6 @@
+framework module CPKongTableView {
+  umbrella header "CPKongTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
